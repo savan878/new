@@ -1,0 +1,8 @@
+.env
+session/
+bot/__pycache__/
+bot/utils/__pycache__/
+bot/core/__pycache__/
+bot/config/__pycache__/
+bot/exceptions/__pycache__/
+pyarmor_runtime_000000/__pycache__/
