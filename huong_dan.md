@@ -1,4 +1,5 @@
-1. Click vào file python-3.11.5-amd64.exe để cài đặt python
+1. Click vào file python-3.11.5-amd64.exe để cài đặt python (nếu máy đã cài đặt python bản cao hoặc thấp hơn 3.11 thì gỡ hết ra trước khi cài đặt)
+   Khi chạy file cài đặt nhớ tick chọn "Add Python.exe to PATH"
 
 2. Copy danh sách ID profile GPM vào file data.txt (vào mục profile GPM chọn tất cả các profile cần chạy -> nhấn copy ID ở thanh công cụ)
 
@@ -8,7 +9,7 @@
 
 5. chạy file run: nếu có cảnh báo thì chọn more info -> run anyway (cài đặt lần đầu sẽ mất khoảng vài phút. Hãy kiên nhẫn)
 
-6. Liên hệ telegram: @nora24320
+6. Liên hệ telegram: @nora24320 (group: https://t.me/thichauto)
 
 Hướng dẫn tùy chọn auto: 
 
