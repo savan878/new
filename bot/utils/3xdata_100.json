@@ -1,0 +1,44 @@
+{
+  "data":[
+    {
+      "cordinates": [
+      {
+        "start": [154, 405],
+        "end": [207, 466]
+      }
+      ],
+      "color": "#FFFFFF",
+      "template": "2017882785"
+    },
+    {
+      "cordinates": [
+        {
+          "start": [782, 93],
+          "end": [821, 132]
+        }
+      ],
+      "color": "#FFFFFF",
+      "template": "5323541038"
+    },
+    {
+      "cordinates": [
+        {
+          "start": [112, 378],
+          "end": [232, 397]
+        }
+      ],
+      "color": "#000000",
+      "template": "1972552043"
+    },
+    {
+      "cordinates": [
+        {
+          "start": [720, 899],
+          "end": [752, 934]
+        }
+      ],
+      "color": "#000000",
+      "template": "5315487777"
+    }
+  ]
+}
