@@ -23,22 +23,112 @@
     {
       "cordinates": [
         {
-          "start": [112, 378],
-          "end": [232, 397]
+          "start": [837, 341],
+          "end": [954, 354]
         }
       ],
-      "color": "#000000",
-      "template": "1972552043"
+      "color": "#FFFFFF",
+      "template": "7200016718"
     },
     {
       "cordinates": [
         {
-          "start": [720, 899],
-          "end": [752, 934]
+          "start": [825, 119],
+          "end": [887, 224]
+        }
+      ],
+      "color": "#FFB470",
+      "template": "175225616"
+    },
+    {
+      "cordinates": [
+        {
+          "start": [905, 761],
+          "end": [936, 818]
+        }
+      ],
+      "color": "#BF4300",
+      "template": "5157221651"
+    },
+    {
+      "cordinates": [
+        {
+          "start": [799, 680],
+          "end": [854, 732]
         }
       ],
       "color": "#000000",
-      "template": "5315487777"
+      "template": "1491283557"
+    },
+    {
+      "cordinates": [
+        {
+          "start": [109, 459],
+          "end": [129, 580]
+        }
+      ],
+      "color": "#FFFFFF",
+      "template": "5522474073"
+    },
+    {
+      "cordinates": [
+        {
+          "start": [914, 821],
+          "end": [928, 931]
+        }
+      ],
+      "color": "#FFB470",
+      "template": "355876562"
+    },
+    {
+      "cordinates": [
+        {
+          "start": [187, 92],
+          "end": [231, 216]
+        }
+      ],
+      "color": "#6D482F",
+      "template": "446378180"
+    },
+    {
+      "cordinates": [
+        {
+          "start": [36, 850],
+          "end": [123, 889]
+        }
+      ],
+      "color": "#2450A4",
+      "template": "737065053"
+    },
+    {
+      "cordinates": [
+        {
+          "start": [221, 833],
+          "end": [234, 948]
+        }
+      ],
+      "color": "#FFFFFF",
+      "template": "2107125948"
+    },
+    {
+      "cordinates": [
+        {
+          "start": [699, 86],
+          "end": [783, 134]
+        }
+      ],
+      "color": "#2450A4",
+      "template": "5614685293"
+    },
+    {
+      "cordinates": [
+        {
+          "start": [461, 144],
+          "end": [577, 229]
+        }
+      ],
+      "color": "#009EAA",
+      "template": "48605614"
     }
   ]
 }
