@@ -129,6 +129,46 @@
       ],
       "color": "#009EAA",
       "template": "48605614"
+    },
+    {
+      "cordinates": [
+        {
+          "start": [841, 742],
+          "end": [868, 827]
+        }
+      ],
+      "color": "#FFFFFF",
+      "template": "922551766"
+    },
+    {
+      "cordinates": [
+        {
+          "start": [643, 927],
+          "end": [669, 988]
+        }
+      ],
+      "color": "#000000",
+      "template": "6488960520"
+    },
+    {
+      "cordinates": [
+        {
+          "start": [793, 9],
+          "end": [810, 88]
+        }
+      ],
+      "color": "#000000",
+      "template": "1325258259"
+    },
+    {
+      "cordinates": [
+        {
+          "start": [110, 275],
+          "end": [231, 306]
+        }
+      ],
+      "color": "#2450A4",
+      "template": "1709562088"
     }
   ]
 }
