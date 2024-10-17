@@ -2,173 +2,103 @@
   "data":[
     {
       "cordinates": [
-      {
-        "start": [154, 405],
-        "end": [207, 466]
-      }
-      ],
-      "color": "#FFFFFF",
-      "template": "2017882785"
-    },
-    {
-      "cordinates": [
-        {
-          "start": [782, 93],
-          "end": [821, 132]
-        }
-      ],
-      "color": "#FFFFFF",
-      "template": "5323541038"
-    },
-    {
-      "cordinates": [
-        {
-          "start": [837, 341],
-          "end": [954, 354]
-        }
-      ],
-      "color": "#FFFFFF",
-      "template": "7200016718"
-    },
-    {
-      "cordinates": [
-        {
-          "start": [825, 119],
-          "end": [887, 224]
-        }
-      ],
-      "color": "#FFB470",
-      "template": "175225616"
-    },
-    {
-      "cordinates": [
-        {
-          "start": [905, 761],
-          "end": [936, 818]
-        }
-      ],
-      "color": "#BF4300",
-      "template": "5157221651"
-    },
-    {
-      "cordinates": [
-        {
-          "start": [799, 680],
-          "end": [854, 732]
-        }
-      ],
-      "color": "#000000",
-      "template": "1491283557"
-    },
-    {
-      "cordinates": [
         {
           "start": [109, 459],
-          "end": [129, 580]
+          "end": [129, 580],
+          "color": "#FFFFFF"
         }
       ],
-      "color": "#FFFFFF",
       "template": "5522474073"
     },
     {
       "cordinates": [
         {
-          "start": [914, 821],
-          "end": [928, 931]
-        }
-      ],
-      "color": "#FFB470",
-      "template": "355876562"
-    },
-    {
-      "cordinates": [
+          "start": [710, 1],
+          "end": [761, 23],
+          "color": "#000000"
+        },
         {
-          "start": [187, 92],
-          "end": [231, 216]
-        }
-      ],
-      "color": "#6D482F",
-      "template": "446378180"
-    },
-    {
-      "cordinates": [
+          "start": [778, 112],
+          "end": [811, 128],
+          "color": "#000000"
+        },
         {
-          "start": [36, 850],
-          "end": [123, 889]
+          "start": [699, 113],
+          "end": [756, 128],
+          "color": "#000000"
         }
       ],
-      "color": "#2450A4",
-      "template": "737065053"
-    },
-    {
-      "cordinates": [
-        {
-          "start": [221, 833],
-          "end": [234, 948]
-        }
-      ],
-      "color": "#FFFFFF",
-      "template": "2107125948"
-    },
-    {
-      "cordinates": [
-        {
-          "start": [699, 86],
-          "end": [783, 134]
-        }
-      ],
-      "color": "#2450A4",
-      "template": "5614685293"
-    },
-    {
-      "cordinates": [
-        {
-          "start": [461, 144],
-          "end": [577, 229]
-        }
-      ],
-      "color": "#009EAA",
-      "template": "48605614"
-    },
-    {
-      "cordinates": [
-        {
-          "start": [841, 742],
-          "end": [868, 827]
-        }
-      ],
-      "color": "#FFFFFF",
-      "template": "922551766"
-    },
-    {
-      "cordinates": [
-        {
-          "start": [643, 927],
-          "end": [669, 988]
-        }
-      ],
-      "color": "#000000",
-      "template": "6488960520"
-    },
-    {
-      "cordinates": [
-        {
-          "start": [793, 9],
-          "end": [810, 88]
-        }
-      ],
-      "color": "#000000",
       "template": "1325258259"
     },
     {
       "cordinates": [
         {
-          "start": [110, 275],
-          "end": [231, 306]
+          "start": [642, 924],
+          "end": [655, 993],
+          "color": "#000000"
+        },
+        {
+          "start": [613, 959],
+          "end": [655, 973],
+          "color": "#000000"
+        },
+        {
+          "start": [625, 876],
+          "end": [648, 889],
+          "color": "#000000"
+        },
+        {
+          "start": [592, 897],
+          "end": [609, 913],
+          "color": "#FFFFFF"
+        },
+        {
+          "start": [568, 926],
+          "end": [596, 937],
+          "color": "#FFFFFF"
         }
       ],
-      "color": "#2450A4",
-      "template": "1709562088"
+      "template": "6488960520"
+    },
+    {
+      "cordinates": [
+        {
+          "start": [811, 808],
+          "end": [930, 826],
+          "color": "#FFB470"
+        },
+        {
+          "start": [803, 880],
+          "end": [832, 922],
+          "color": "#FFB470"
+        },
+        {
+          "start": [892, 897],
+          "end": [925, 921],
+          "color": "#FFB470"
+        }
+      ],
+      "template": "355876562"
+    },
+    {
+      "cordinates": [
+        {
+          "start": [178, 615],
+          "end": [202, 632],
+          "color": "#000000"
+        },
+        {
+          "start": [171, 506],
+          "end": [201, 575],
+          "color": "#000000"
+        },
+        {
+          "start": [75, 506],
+          "end": [108, 559],
+          "color": "#000000"
+        }
+      ],
+      "template": "6355200889"
     }
   ]
 }
