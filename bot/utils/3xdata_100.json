@@ -43,22 +43,42 @@
     {
       "cordinates": [
         {
-          "start": [811, 808],
-          "end": [930, 826],
-          "color": "#FFB470"
+          "start": [931, 733],
+          "end": [965, 830],
+          "color": "#FFFFFF"
         },
         {
-          "start": [803, 880],
-          "end": [832, 922],
-          "color": "#FFB470"
+          "start": [838, 732],
+          "end": [869, 838],
+          "color": "#FFFFFF"
         },
         {
-          "start": [892, 897],
-          "end": [925, 921],
-          "color": "#FFB470"
+          "start": [838, 840],
+          "end": [866, 859],
+          "color": "#FFFFFF"
+        },
+        {
+          "start": [866, 852],
+          "end": [942, 859],
+          "color": "#FFFFFF"
+        },
+        {
+          "start": [870, 732],
+          "end": [930, 741],
+          "color": "#FFFFFF"
+        },
+        {
+          "start": [881, 747],
+          "end": [911, 763],
+          "color": "#000000"
+        },
+        {
+          "start": [903, 804],
+          "end": [922, 847],
+          "color": "#000000"
         }
       ],
-      "template": "355876562"
+      "template": "922551766"
     },
     {
       "cordinates": [
