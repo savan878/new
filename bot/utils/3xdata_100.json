@@ -349,6 +349,36 @@
         }
       ],
       "template": "7319890725"
+    },
+    {
+      "cordinates": [
+        {
+          "start": [90, 10],
+          "end": [136, 86],
+          "color": "#FFFFFF"
+        },
+        {
+          "start": [112, 75],
+          "end": [137, 102],
+          "color": "#FFFFFF"
+        },
+        {
+          "start": [116, 103],
+          "end": [137, 137],
+          "color": "#FFFFFF"
+        },
+        {
+          "start": [35, 18],
+          "end": [57, 84],
+          "color": "#FFFFFF"
+        },
+        {
+          "start": [10, 72],
+          "end": [27, 137],
+          "color": "#FFFFFF"
+        }
+      ],
+      "template": "5440629352"
     }
   ]
 }
